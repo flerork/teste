@@ -1,0 +1,40 @@
+body {
+    font-family: "arial";
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 0;
+    margin: 0%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    border-bottom: 3px solid #00f529;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+ul li{
+    margin-right: 20px;
+}
+ul li a{
+    color: #f6fa06;
+}
+h1{
+    font-size: 32px;
+}
+img{
+    border: 5px solid #093ca8
+    ;
+}
+footer{
+    padding: 30px ;
+    border-top: 3px solid #ff00ea ;
+    margin-top: 20px;
+}
